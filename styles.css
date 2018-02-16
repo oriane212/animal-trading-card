@@ -1,0 +1,44 @@
+/* add your CSS here */
+.card{
+    border: 1px solid rgb(202, 202, 202);
+    box-shadow: 6px 6px 1px #EEE;
+    width: 300px;
+    padding: 0px 10px;
+    font-size: 9pt;
+    font-family: helvetica, Arial, Helvetica, sans-serif;
+    color: rgba(0,0,0,.75);
+    background-color: #fccccc;
+    border-radius: 4px;
+}
+h3{
+    font-size: 14pt;
+}
+li{
+    list-style: none;
+}
+img{
+    width: 300px;
+    height: auto;
+    border-radius: 4px;
+}
+.info{
+    padding: 0px 10px;
+    border: 1px solid rgb(202, 202, 202);
+    margin: 10px 0px;
+    background-color: rgb(252, 235, 235);
+    border-radius: 4px;
+    line-height: 16px;
+}
+.is-italicized{
+    font-style: italic;
+}
+span{
+    font-weight: bold;
+}
+ul{
+    padding-left: 0px;
+}
+
+
+
+
