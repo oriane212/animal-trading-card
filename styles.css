@@ -1,42 +1,49 @@
 /* add your CSS here */
-.card{
+.card {
     border: 1px solid rgb(202, 202, 202);
-    box-shadow: 6px 6px 1px #EEE;
+    box-shadow: 6px 6px 1px #eee;
     width: 300px;
-    padding: 0px 10px;
+    padding: 0 10px;
     font-size: 9pt;
-    font-family: helvetica, Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: rgba(0,0,0,.75);
     background-color: #fccccc;
     border-radius: 4px;
 }
-h3{
+
+.card h3 {
     font-size: 14pt;
 }
-li{
+
+.card li {
     list-style: none;
 }
-img{
+
+.card img {
     width: 300px;
     height: auto;
     border-radius: 4px;
 }
-.info{
-    padding: 0px 10px;
+
+.info {
+    padding: 0 10px;
     border: 1px solid rgb(202, 202, 202);
-    margin: 10px 0px;
+    margin: 10px 0;
     background-color: rgb(252, 235, 235);
     border-radius: 4px;
     line-height: 16px;
 }
-.is-italicized{
+
+.is-italicized {
     font-style: italic;
 }
-span{
+
+.is-bold {
     font-weight: bold;
 }
-ul{
-    padding-left: 0px;
+
+.card ul {
+    padding-left: 0;
 }
 
 
